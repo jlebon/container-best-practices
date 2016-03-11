@@ -10,7 +10,7 @@
 
 == Audience
 
-This documentation has been written specifically for the developers who are writing
+This test documentation has been written specifically for the developers who are writing
 Dockerfiles to create images.  Dockerfiles can become rather complex depending on the
 application being containerized so we are passing on our experience with Dockerfiles
 through a series of best practices.
